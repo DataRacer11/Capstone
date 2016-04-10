@@ -13,3 +13,15 @@ Introduction
 [1] https://www.coursera.org/learn/data-science-project/home/welcome
 
 [2] https://en.wikipedia.org/wiki/SwiftKey
+
+Course Tasks:
+This course is separated into 8 different tasks that cover the range of activities encountered by a practicing data scientist. They mirror many of the skills which have developed in the Coursera data science specialization. 
+The 8 tasks are:
+- Understanding the problem
+- Data acquisition and cleaning
+- Exploratory analysis
+- Statistical modeling
+- Predictive modeling
+- Creative exploration
+- Creating a data product
+Creating a short slide deck pitching your product
