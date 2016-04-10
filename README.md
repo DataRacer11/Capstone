@@ -25,3 +25,10 @@ The 8 tasks are:
 - Creative exploration
 - Creating a data product
 Creating a short slide deck pitching your product
+
+Course dataset
+This is the training data that will be the basis for most of the capstone. Data must be downloaded from the internal course link and not from external websites to start.
+
+https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip
+
+Later in the course, external data sets may be used to augment your model as you see fit.
